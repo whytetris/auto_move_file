@@ -1,6 +1,8 @@
-# auto_moving_file
-a script for moving files of a certain format to other folders that are specified in the config
+# auto_move_file
+#The script allows you to automate the movement of files in the system. In config.txt you can add as many routes as you want in the format: "from; to;.format;"
+
 
 ### Download .exe file:
 ## [auto_moving_file.zip](https://drive.google.com/file/d/1zC55x39xu0pppSloGXkSh-B8zf1aI1-9/view?usp=sharing)
 
+#The script is very simple and useful. Example: You can filter the downloads folder!
